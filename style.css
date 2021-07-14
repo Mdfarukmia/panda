@@ -1,1 +1,50 @@
 
+.bg-orange{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.r1{
+   background-color: yellowgreen;
+   border-radius: 15px;
+  
+}
+.r2{
+    background-color: blue;
+    border-radius: 15px;
+}
+.r3{
+    background-color: burlywood;
+    border-radius: 15px;
+}
+
+}
+.catagories img{
+    width: 100px;
+}
+.catagories h1{
+    color: white;
+    padding-left: 20px;
+
+}
+.row{
+    border-radius: 15px;
+}
+.conone{
+    background-color: #fceae8;
+    width: auto;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.conone button{
+    padding: 10px 25px;
+    margin-top: 20px;
+}
+.navone{
+  
+   
+}
